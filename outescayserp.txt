@@ -1,0 +1,19 @@
+Press C to continue next turn, or E to end the game
+1 1 1 2 N 3
+2 2 1 6 N 7
+Invalid option, please press C to continue next turn or E to end the game
+3 1 3 5 N 8
+4 2 7 3 L 13
+Invalid option, please press C to continue next turn or E to end the game
+Invalid option, please press C to continue next turn or E to end the game
+5 1 8 2 L 13
+6 2 13 2 N 15
+7 1 13 3 N 16
+8 2 15 2 N 17
+9 1 16 5 N 21
+10 2 17 1 N 18
+11 1 21 4 N 25
+12 2 18 6 N 24
+13 1 25 6 N 30
+-- GAME OVER --
+Player 1 is the winner!!!
